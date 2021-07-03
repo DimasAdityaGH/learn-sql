@@ -1,0 +1,11 @@
+SELECT  -mengekstrak data dari database 
+UPDATE  -memperbarui data dalam database
+DELETE  -menghapus data dari database
+INSERT INTO -memasukan data dari database
+CREATE DATABASE -membuat database baru
+ALTER DATABASE -memodifikasi database
+CREATE TABLE -membuat tabel baru
+ALTER TABLE -memodifikasi tabel
+DROP TABLE -menghapus tabel
+CREATE INDEX -membuat indeks (kunci pencarian)
+DROP INDEX -menghapus index

@@ -1,0 +1,11 @@
+apa yang dapat sql lakukan?
+-SQL dapat mengeksekusi query terhadap database
+-SQL dapat mengambil data dari database
+-SQL dapat menyispkan catatan dalam database
+-SQL dapat memperbarui catatan dalam database
+-SQL dapat menghapus catatan dari database
+-SQl dapat membuat database baru
+-SQL dapat membuat tabel baru dalam database
+-SQL dapat membuar prosedur tersimpan dalam database
+-SQL dapat membuat tampilan dalam database
+-SQL dapat mengatur izin pada tabel, prosedur, dan tampilan

@@ -1,0 +1,4 @@
+apa itu sql?
+-sql adalah singkatan dari structured Query Language
+-sql memungkinkan anda mengakses dan memanipulasi database
+-sql menjadi standar american national standard insitute (ansi) pada 1986, dan international organization for standardization(iso) pada 1987

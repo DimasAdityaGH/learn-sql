@@ -1,0 +1,2 @@
+# learn-sql
+belajar sql
